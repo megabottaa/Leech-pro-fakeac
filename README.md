@@ -10,9 +10,11 @@
 
 # My Telegram Bot Link 
      https://t.me/Adxleechgroup2_bot
+     Bot Name : LEECH BOT 2
 
 # My Telegram Leech Group Links
      https://t.me/+4cLKY3Nc4UdhNDJl
+     Group Name : LEECH GROUP 2
 
 
 
